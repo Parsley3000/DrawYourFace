@@ -3,7 +3,7 @@
 
 Issue with orginal upload of Files 
 - React pages folder when generated was created as its only git repo automatically. 
-- I thought when git ignore was removed with was be pushed, only more recently 
+- I thought when git ignore was removed it would be pushed
 - Only more recently checked and none of the react files were in the folder
 - deleting .git also didn't fix it
 - So created new folder "JavaScript_Upload2" with all react files
